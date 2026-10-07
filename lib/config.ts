@@ -4,12 +4,14 @@ export const company = {
   phoneDisplay: '+92 324 2899822',
   phoneHref: 'tel:+923242899822',
   whatsapp: '923242899822',
+  email: 'alshaheryarenterprise@gmail.com',
+  facebookUrl: 'https://www.facebook.com/people/Al-Shaheryar-EnterpriseLPG-Gas-Refill-services/61593880455837/',
   otherBusinessName: 'Electronics Business',
   otherBusinessUrl: '/electronics-business',
 };
 
 export const cylinderConfig = {
-  modelPath: '/gas_cylinder.glb',
+  modelPath: '/cylinder.glb',
   targetHeight: 2.7,
   rotation: [0, 0, 0] as [number, number, number],
   verticalOffset: -0.05,
